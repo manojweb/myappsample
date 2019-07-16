@@ -1,0 +1,13 @@
+Modification-2
+Github.com -Online1
+Github Desktop
+GIT: Version Control System
+Distributed version control
+========
+$git init  //initialize Local GIt Reposotory
+$git add <file> //Add File(s) to Index
+$git status //check status of working tree
+$git commit //commit changes in Index
+@git push //push to Remote Repository
+@git pull  //Pull Latest From Remote Repository
+@git clone //Clone Repository Into A New Directory
